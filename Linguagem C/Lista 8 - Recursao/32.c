@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int binario(int n) {
+void binario(int n) {
 
     if(n > 1) binario (n/2);
 
