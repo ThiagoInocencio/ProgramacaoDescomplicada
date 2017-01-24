@@ -13,7 +13,7 @@ int ackerman(int m, int n) {
 
 int main() {
 
-    printf("Valor retornado pela funcao de ackerman quando m=4 e n=6 eh: %d" , ackerman(2, 6));
+    printf("Valor retornado pela funcao de ackerman quando m=2 e n=6 eh: %d" , ackerman(2, 6));
 
     return 0;
 }
