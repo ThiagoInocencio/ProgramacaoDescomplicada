@@ -13,7 +13,7 @@ int tribonacci(n) {
 
 int main() 
 
-    printf("o 5 termo da serie de tribonacci eh: " , tribonacci(5));
+    printf("o 5 termo da serie de tribonacci eh: %d" , tribonacci(5));
 
     return 0;
 }
