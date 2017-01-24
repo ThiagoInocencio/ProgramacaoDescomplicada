@@ -11,9 +11,7 @@ int tribonacci(n) {
 
 }
 
-int main() {
-
-    int arr[10] = {4, 5, 8, 65, 333, 21, 65, 7, 54, 2};
+int main() 
 
     printf("o 5 termo da serie de tribonacci eh: " , tribonacci(5));
 
