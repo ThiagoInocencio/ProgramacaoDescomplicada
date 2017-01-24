@@ -5,12 +5,15 @@
 int catalan(int n) {
 
     if(n == 0) return 1;
-    return ((2 * (2*n-1))/n+1) * catalan(n-1);
+    
+    return 2 * (2*n-1) * catalan(n-1) / (n+1);
+    
 }
 
 int main() {
 
-    printf("Valor retornado pela funcao de Catalan quando n=3 eh: %d" , catalan(3));
+    printf("Valor retornado pela funcao de Catalan quando n=11 eh: %d" , catalan(11));
 
     return 0;
 }
+
