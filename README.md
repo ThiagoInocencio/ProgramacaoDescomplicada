@@ -2,7 +2,7 @@
 
 [Acesse o site do projeto para fazer o download das listas de exercícios](https://programacaodescomplicada.wordpress.com/complementar/)
 
-## [Linguagem C](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C)
+## Linguagem C
 
 - Lista 1 – Variáveis e Expressões (Em construção)
 - Lista 2 – Comandos Condicionais (Em construção)
