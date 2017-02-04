@@ -4,28 +4,33 @@
 
 ## Linguagem C
 
-- Lista 1 – Variáveis e Expressões (Em construção)
-- Lista 2 – Comandos Condicionais (Em construção)
-- Lista 3 – Comandos de Repetição (Em construção)
-- Lista 4 – Vetores e Matrizes (Em construção)
-- Lista 5 – Strings (Em construção)
-- Lista 6 – Structs (Em construção)
-- Lista 7 – Funções(Em construção)
-- [Lista 8 – Recursao](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%208%20-%20Recursao)
-- Lista 9 – Ponteiros (Em construção)
-- Lista 10 – Alocação Dinâmica (Em construção)  
-- Lista 11 – Arquivos (Em construção)
+| Lista        | Nº Exercícios  | Nº Resolvidos| % Resolvidos
+| ------------- | :-----:| :-----: | :-----: |
+| 1 - Variáveis e expressões |  53   | 0 |  0% | 
+| 2 - Comandos Condicionais |  53   | 0 |  0% |
+| 3 - Comandos de Repetição |  53   | 0 |  0% |
+| 4 - Vetores e Matrizes |  53   | 0 |  0% |
+| 5 - Strings |  53   | 0 |  0% |
+| 6 - Structs |  53   | 0 |  0% |
+| 7 - Funções |  53   | 0 |  0% |
+| [8 - Recursão](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%208%20-%20Recursao) | 37 | 33 |89% |
+| 9 - Ponteiros |  53   | 0 |  0% |
+| 10 - Alocação Dinâmica |  53   | 0 |  0% |
+| 10 - Arquivos |  53   | 0 |  0% |
 
 ## Estrutura de dados
 
-- Lista 1 – Tipo abstrato de dado – Tad (Em construção)
-- Lista 2 – Análise de Complexidade (Em construção)
-- Lista 3 – Busca e Ordenação (Em construção)
-- Lista 4 – Listas (Em construção)
-- Lista 5 – Filas (Em construção)
-- Lista 6 – Pilhas (Em construção)
-- Lista 7 – Grafos (Em construção)
-- Lista 8 – Arvores (Em construção)
-- Lista 9 – Tabela Hash (Em construção)
+
+| Lista        | Nº Exercícios  | Nº Resolvidos| % Resolvidos
+| ------------- | :-----:| :-----: | :-----: |
+| 1 - Tipo abstrato de dado – Tad |  53   | 0 |  0% | 
+| 2 - Análise de Complexidade |  53   | 0 |  0% |
+| 3 - Busca e Ordenação |  53   | 0 |  0% |
+| 4 - Listas |  53   | 0 |  0% |
+| 5 - Filas |  53   | 0 |  0% |
+| 6 - Pilhas |  53   | 0 |  0% |
+| 7 - Grafos |  53   | 0 |  0% |
+| 8 - Árvores |  53   | 0 |  0% |
+| 9 - Tabela Hash |  53   | 0 |  0% |
 
 
