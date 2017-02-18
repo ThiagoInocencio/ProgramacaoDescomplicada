@@ -19,7 +19,7 @@ void paraData(int dia, int mes, int ano) {
         case 10 : strcpy(mesExtenso, "Outubro"); break;
         case 11 : strcpy(mesExtenso, "Novembro"); break;
         case 12 : strcpy(mesExtenso, "Dezembro"); break;
-        default : printf("Mes incorreto"); break;
+        default : printf("Mes incorreto"); return;
     }
 
     printf("Data: %d de %s de %d" , dia, mesExtenso, ano);
