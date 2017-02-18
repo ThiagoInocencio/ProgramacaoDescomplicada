@@ -12,7 +12,7 @@
 | 4 - Vetores e Matrizes |  25   | 0 |  0% |
 | 5 - Strings |  34   | 0 |  0% |
 | 6 - Structs |  24   | 0 |  0% |
-| [7 - Funções](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%207%20-%20Fun%C3%A7%C3%B5es) |  73   | 1 |  8,21% |
+| [7 - Funções](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%207%20-%20Fun%C3%A7%C3%B5es) |  73   | 6 |  8,21% |
 | [8 - Recursão](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%208%20-%20Recursao)| 37 | 33 |89% |
 | 9 - Ponteiros |  26   | 0 |  0% |
 | 10 - Alocação Dinâmica |  21  | 0 |  0% |
