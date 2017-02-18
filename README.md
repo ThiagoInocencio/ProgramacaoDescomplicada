@@ -1,6 +1,6 @@
 # Programação Descomplicada
 
-[Acesse o site do projeto para fazer o download das listas de exercícios](https://programacaodescomplicada.wordpress.com/complementar/){:target="_blank"}
+[Acesse o site do projeto para fazer o download das listas de exercícios](https://programacaodescomplicada.wordpress.com/complementar/)
 
 ## Linguagem C
 
@@ -12,8 +12,8 @@
 | 4 - Vetores e Matrizes |  53   | 0 |  0% |
 | 5 - Strings |  53   | 0 |  0% |
 | 6 - Structs |  53   | 0 |  0% |
-| [7 - Funções](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%207%20-%20Fun%C3%A7%C3%B5es){target="_blank"} |  73   | 1 |  1,36% |
-| [8 - Recursão](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%208%20-%20Recursao){target="_blank"} | 37 | 33 |89% |
+| [7 - Funções](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%207%20-%20Fun%C3%A7%C3%B5es) |  73   | 1 |  1,36% |
+| [8 - Recursão](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%208%20-%20Recursao)| 37 | 33 |89% |
 | 9 - Ponteiros |  53   | 0 |  0% |
 | 10 - Alocação Dinâmica |  53   | 0 |  0% |
 | 10 - Arquivos |  53   | 0 |  0% |
