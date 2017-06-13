@@ -9,7 +9,7 @@
 | 1 - Variáveis e expressões |  53   | 0 |  0% | 
 | 2 - Comandos Condicionais |  41   | 0 |  0% |
 | 3 - Comandos de Repetição |  62   | 0 |  0% |
-| 4 - [Vetores e Matrizes](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%204%20-%20Vetores%20e%20Matrizes) |  64   | 7 |  10,93% |
+| [4 - Vetores e Matrizes](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%204%20-%20Vetores%20e%20Matrizes) |  64   | 7 |  10,93% |
 | [5 - Strings](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%205%20-%20String) |  34   | 10 |  29,41% |
 | 6 - Structs |  24   | 0 |  0% |
 | [7 - Funções](https://github.com/ThiagoInocencio/ProgramacaoDescomplicada/tree/master/Linguagem%20C/Lista%207%20-%20Fun%C3%A7%C3%B5es) |  73   | 22 |  30,13% |
