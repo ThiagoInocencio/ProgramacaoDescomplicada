@@ -8,7 +8,7 @@ int main() {
 
   scanf("%f" , &celsius);
 
-  printf("%0.2f" , celsius * (9.0/5.0) + 32.0 );
+  printf("%f" , celsius * (9.0/5.0) + 32.0 );
 
   return 0;
 }
